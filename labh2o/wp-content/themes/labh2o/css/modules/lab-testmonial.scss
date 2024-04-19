@@ -1,0 +1,33 @@
+.lab-testimonial {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    overflow: hidden;
+ 
+    color: #eceeef;
+    padding: 3rem 0;
+    position: relative;
+    z-index: 10;
+    background-size: cover;
+    text-align: center !important;
+}
+
+.lab-testimonial blockquote {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    width: 70vw;
+    //background-color: red;
+
+}
+
+.g-img-circle {
+    border-radius: 50%;
+    margin-bottom: 1.25rem;
+    border: 4px solid #fff;
+}

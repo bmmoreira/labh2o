@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LABH2O Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-13 16:52+0000\n"
+"PO-Revision-Date: 2023-03-13 21:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: university-theme"
+
+#: footer.php:19 header.php:22
+msgid "About LABH2O"
+msgstr "Sobre LABH2O"
+
+#: archive-event.php:5
+msgid "All Events"
+msgstr "Todos los eventos"
+
+#: archive-professor.php:5
+msgid "All Professors"
+msgstr "Todos los profesores"
+
+#: archive-program.php:5
+msgid "All Programs"
+msgstr "Todos los programas"
+
+#: single.php:11
+msgid "Article by"
+msgstr "Artículo de"
+
+#. Author of the theme
+msgid "Bruno Moreira"
+msgstr "Bruno Moreira"
+
+#: footer.php:42
+msgid "Conect with us"
+msgstr "Conecta con nosotros"
+
+#: footer.php:29
+msgid "Content"
+msgstr "Contenido"
+
+#: footer.php:35 header.php:25
+msgid "Events"
+msgstr "Eventos"
+
+#: page-eventos-passados.php:6
+msgid "Events List"
+msgstr "Lista de eventos"
+
+#: footer.php:15
+msgid "Explore"
+msgstr "Explorar"
+
+#: _single-campus.php:13
+msgid "Home - Campuses"
+msgstr "Inicio - Campus"
+
+#: single.php:11
+msgid "Home - News"
+msgstr "Inicio - Noticias"
+
+#: single-professor.php:15
+msgid "Home - Professors"
+msgstr "Inicio - Profesores"
+
+#: single-program.php:13
+msgid "Home - Programs"
+msgstr "Inicio - Programas"
+
+#. Name of the theme
+msgid "LABH2O Theme"
+msgstr "Tema LABH2O"
+
+#: archive-campus.php:6
+msgid "Locais"
+msgstr "Localización"
+
+#: header.php:26
+msgid "MapHidro"
+msgstr "MapHidro"
+
+#: front-page.php:51 header.php:23
+msgid "News"
+msgstr "Noticias"
+
+#: archive-campus.php:5
+msgid "Our Laboratories"
+msgstr "Nuestros Laboratorios"
+
+#: includes/acf-pagebanner.php:7
+msgid "Page Banner"
+msgstr "Banner de página"
+
+#: includes/acf-pagebanner.php:31
+msgid "Page Banner Background image"
+msgstr "Banner de página Imagen de fondo"
+
+#: includes/acf-pagebanner.php:11
+msgid "Page Banner Subtitle"
+msgstr "Subtítulo de banner de página"
+
+#: archive-event.php:24 page-eventos-passados.php:5
+msgid "Past Events"
+msgstr "Eventos pasados"
+
+#: footer.php:22
+msgid "Privacy Policy"
+msgstr "Política de Privacidad"
+
+#: header.php:27 single-program.php:41
+msgid "Professors"
+msgstr "Profesores"
+
+#: footer.php:20 header.php:24
+msgid "Programs"
+msgstr "Programas"
+
+#: archive-program.php:6
+msgid "Programs List"
+msgstr "Lista de programas"
+
+#: footer.php:34
+msgid "Projects"
+msgstr "Proyectos"
+
+#: footer.php:33
+msgid "Publications"
+msgstr "Publicaciones"
+
+#: front-page.php:152 front-page.php:185 front-page.php:219
+#: template-parts/content-professor-list.php:11
+msgid "Read more"
+msgstr "Leer más"
+
+#: footer.php:21
+msgid "Staff"
+msgstr "Personal"
+
+#: front-page.php:17 single-program.php:87
+msgid "Upcoming Events"
+msgstr "Próximos Eventos"
+
+#: front-page.php:46
+msgid "View All Events"
+msgstr "Ver todos los eventos"
+
+#: front-page.php:64
+msgid "View All News"
+msgstr "Ver todas las noticias"
