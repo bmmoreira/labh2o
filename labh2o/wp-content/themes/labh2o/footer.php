@@ -78,7 +78,7 @@
 
       <div class="site-footer__col-four" style="text-align: center;">
         <img src="<?php echo get_theme_file_uri('/images/logo_brunomoreira_dev.png') ?>" alt="brunomoreira Logo" />
-        <h5 class="headline headline--extratiny">Desenvolvimento: brunomoreira.dev</h5>
+        <h5 class="headline headline--extratiny">Desenvolvimento: brunomoreira.dev </h5>
       </div>
     </div>
   </div>
