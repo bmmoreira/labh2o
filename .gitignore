@@ -8,7 +8,6 @@
 # To stop tracking a file that is currently tracked, use 
 # git rm --cached
 # -----------------------------------------------------------------
-
 # ignore everything in the root except the "wp-content" directory.
 labh2o/*
 
@@ -90,18 +89,6 @@ Thumbs.db
 
 # track these mu-plugins, plugins, and themes
 # add your own entries here
-!labh2o/wp-content/languages/themes/university-theme-en_US.po
-!labh2o/wp-content/languages/themes/university-theme-en_US.mo
-!labh2o/wp-content/languages/themes/university-theme-pt_BR.po
-!labh2o/wp-content/languages/themes/university-theme-pt_BR.mo
-!labh2o/wp-content/languages/themes/university-theme-es_ES.po
-!labh2o/wp-content/languages/themes/university-theme-es_ES.mo
-!labh2o/wp-content/themes/labh2o/languages/university-theme.pot
-!labh2o/wp-content/mu-plugins/
-!labh2o/wp-content/plugins/lab-projects/
-!labh2o/wp-content/plugins/maphidro/
-!labh2o/wp-content/plugins/lab-cards/
-!labh2o/wp-content/plugins/lab-defenses/
-!labh2o/wp-content/plugins/lab-events/
-!labh2o/wp-content/plugins/lab-projects/
 !labh2o/wp-content/themes/labh2o/
+
+
