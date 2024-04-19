@@ -10,11 +10,10 @@
 # -----------------------------------------------------------------
 # ignore everything in the root except the "wp-content" directory.
 labh2o/*
-!labh2o/wp-content/themes/labh2o/*
 
 
 # ignore all files starting with . or ~
-.*
+
 ~*
 
 # ignore node dependency directories (used by grunt)
