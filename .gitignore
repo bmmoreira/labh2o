@@ -10,18 +10,8 @@
 # -----------------------------------------------------------------
 # ignore everything in the root except the "wp-content" directory.
 labh2o/*
+!labh2o/wp-content/themes/labh2o/*
 
-
-# ignore everything in the "wp-content" directory, except:
-# mu-plugins, plugins, and themes directories
-labh2o/wp-content/*
-
-
-# ignore all mu-plugins, plugins, and themes
-# unless explicitly whitelisted at the end of this file
-labh2o/wp-content/mu-plugins/*
-labh2o/wp-content/plugins/*
-labh2o/wp-content/themes/*
 
 # ignore all files starting with . or ~
 .*
@@ -89,6 +79,6 @@ Thumbs.db
 
 # track these mu-plugins, plugins, and themes
 # add your own entries here
-!labh2o/wp-content/themes/labh2o/
+
 
 
